@@ -38,4 +38,5 @@ add_c_library(
         twiddle/hyperloglog/hyperloglog.c
         twiddle/hyperloglog/hyperloglog_bias.c
         twiddle/hash/minhash.c
+        twiddle/sketch/cms.c
 )
